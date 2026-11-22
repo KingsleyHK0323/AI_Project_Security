@@ -4,8 +4,8 @@ description: A structured, production-grade security baseline for general-purpos
 license: MIT
 metadata:
   author: Kingsley (@KingsleyHK0323)
-  repository: https://github.com/KingsleyHK0323
-  version: "1.0.0"
+  repository: https://github.com/KingsleyHK0323/AI_Project_Security
+  version: "1.0.1"
   domain: application-security
   companion-skills: backend-app-security-checklist, frontend-app-security-checklist
 ---

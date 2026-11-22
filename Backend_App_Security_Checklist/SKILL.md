@@ -4,8 +4,8 @@ description: A structured, production-grade security checklist for backend servi
 license: MIT
 metadata:
   author: Kingsley (@KingsleyHK0323)
-  repository: https://github.com/KingsleyHK0323
-  version: "1.0.0"
+  repository: https://github.com/KingsleyHK0323/AI_Project_Security
+  version: "1.0.1"
   domain: application-security
 ---
 
